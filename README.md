@@ -1,4 +1,4 @@
-# React + Vite + Shadcn UI + Tailwind v4 Turborepo
+# React + Vite + Shadcn UI + Tailwind v4 + Turborepo
 
 A **modern micro-frontend monorepo scaffold** built with **Turborepo**, **pnpm workspaces**, **Vite**, **React 19**, and **Tailwind CSS v4**.
 
